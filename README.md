@@ -1,0 +1,2 @@
+# AttendanceBot
+Fetch attendance ;)
